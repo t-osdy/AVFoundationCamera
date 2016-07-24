@@ -2,9 +2,6 @@
 //  AppDelegate.swift
 //  AVFoundationCamera
 //
-//  Created by Tomoya Osada on 2016/07/21.
-//  Copyright © 2016年 Tomoya Osada. All rights reserved.
-//
 
 import UIKit
 
@@ -43,4 +40,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
-
