@@ -48,8 +48,8 @@ class ViewController: UIViewController {
         myVideoLayer.frame = self.view.bounds
         myVideoLayer.videoGravity = AVLayerVideoGravityResizeAspectFill
 
-        // Viewに追加.
-        self.view.layer.addSublayer(myVideoLayer)
+        // Viewに追加
+        // self.view.layer.addSublayer(myVideoLayer)
 
         // セッション開始.
         mySession.startRunning()
